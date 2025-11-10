@@ -29,16 +29,3 @@ Le script [<code>Interface_Recherche.py</code>](./Interface_Recherche.py) lance 
 * **Application :** Tkinter
 
 (Pour installer les dépendances : `pip install -r requirements.txt`)
-
----
-
-## 3. Lancement
-
-#### a. Données
-En raison de la structure du code, le dossier `data_netflix` (contenant les `.csv`) doit être placé **un niveau au-dessus** du dossier de ce projet.
-
-#### b. Exécution
-Pour lancer l'application, exécutez simplement le script de l'interface :
-
-```bash
-python Interface_Recherche.py
